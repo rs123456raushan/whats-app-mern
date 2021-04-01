@@ -1,0 +1,13 @@
+.app {
+  display: grid;
+  background: linear-gradient(to right, white, rgb(145, 231, 231));
+}
+
+.app_body{
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+
+
